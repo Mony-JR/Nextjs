@@ -7,8 +7,10 @@ const Header = () => {
       {data.map((p)=>(
         <div>
             <h1>{p.name}</h1>
+
         </div>
       ))}
+      <h1>Hello Git</h1>
     </div>
   )
 }
