@@ -10,7 +10,7 @@ const Header = () => {
 
         </div>
       ))}
-      <h1>Hello Git</h1>
+      
     </div>
   )
 }
